@@ -1,5 +1,7 @@
 # iPhone messages over Bluetooth
 
+![The app showing a conversation, the sidebar and the tab bar](showcase.png)
+
 Send and receive iPhone messages from a Linux desktop using the iPhone's Bluetooth Message
 Access Profile (MAP) and Phonebook Access Profile (PBAP), through BlueZ's `obexd`.
 
