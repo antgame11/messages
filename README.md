@@ -66,7 +66,6 @@ Access Profile (MAP) and Phonebook Access Profile (PBAP), through BlueZ's `obexd
     mapmsg/audio.py        keeps this computer out of the phone's audio output list
     mapmsg/cli.py          command-line interface
     mapmsg/gtk_app.py      GTK4 / libadwaita app
-    ancs.ino               ESP32 ANCS sketch (unrelated to the app)
 
 ## Limits (iOS)
 
